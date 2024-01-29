@@ -20,3 +20,5 @@ and show all options.
 ## Continuous Build
 
 Each push and pull requests is checked using GitHub Actions.
+
+test
